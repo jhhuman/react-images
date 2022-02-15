@@ -34,7 +34,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <img src={'./1.jpg'} alt="blah blah" />
+      <img src={"1.jpg"} alt="blah blah" />
       <img src={two} alt="first pic"/>
       <img src={three} alt="first pic"/>
       <img src={four} alt="first pic"/>
