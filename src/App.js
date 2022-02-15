@@ -1,4 +1,4 @@
-import one  from './1.svg';
+import one  from './1.jpg';
 import './App.css';
 
 function App() {
