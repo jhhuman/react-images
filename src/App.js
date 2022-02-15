@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <img src={one} />
+    <img src={one} alt="image"/>
   );
 }
 
