@@ -33,36 +33,38 @@ import './App.css';
 
 function App() {
   return (
-    <img src={one} alt="first pic"/>
-    <img src={two} alt="first pic"/>
-    <img src={three} alt="first pic"/>
-    <img src={four} alt="first pic"/>
-    <img src={five} alt="first pic"/>
-    <img src={six} alt="first pic"/>
-    <img src={seven} alt="first pic"/>
-    <img src={eight} alt="first pic"/>
-    <img src={nine} alt="first pic"/>
-    <img src={ten} alt="first pic"/>
-    <img src={eleven} alt="first pic"/>
-    <img src={twelve} alt="first pic"/>
-    <img src={thirteen} alt="first pic"/>
-    <img src={fourteen} alt="first pic"/>
-    <img src={fifteen} alt="first pic"/>
-    <img src={sixteen} alt="first pic"/>
-    <img src={seventeen} alt="first pic"/>
-    <img src={eighteen} alt="first pic"/>
-    <img src={nineteen} alt="first pic"/>
-    <img src={twenty} alt="first pic"/>
-    <img src={twenty1} alt="first pic"/>
-    <img src={twenty2} alt="first pic"/>
-    <img src={twenty3} alt="first pic"/>
-    <img src={twenty4} alt="first pic"/>
-    <img src={twenty5} alt="first pic"/>
-    <img src={twenty6} alt="first pic"/>
-    <img src={twenty7} alt="first pic"/>
-    <img src={twenty8} alt="first pic"/>
-    <img src={twenty9} alt="first pic"/>
-    <img src={thirty} alt="first pic"/>
+    <div>
+      <img src={one} alt="first pic"/>
+      <img src={two} alt="first pic"/>
+      <img src={three} alt="first pic"/>
+      <img src={four} alt="first pic"/>
+      <img src={five} alt="first pic"/>
+      <img src={six} alt="first pic"/>
+      <img src={seven} alt="first pic"/>
+      <img src={eight} alt="first pic"/>
+      <img src={nine} alt="first pic"/>
+      <img src={ten} alt="first pic"/>
+      <img src={eleven} alt="first pic"/>
+      <img src={twelve} alt="first pic"/>
+      <img src={thirteen} alt="first pic"/>
+      <img src={fourteen} alt="first pic"/>
+      <img src={fifteen} alt="first pic"/>
+      <img src={sixteen} alt="first pic"/>
+      <img src={seventeen} alt="first pic"/>
+      <img src={eighteen} alt="first pic"/>
+      <img src={nineteen} alt="first pic"/>
+      <img src={twenty} alt="first pic"/>
+      <img src={twenty1} alt="first pic"/>
+      <img src={twenty2} alt="first pic"/>
+      <img src={twenty3} alt="first pic"/>
+      <img src={twenty4} alt="first pic"/>
+      <img src={twenty5} alt="first pic"/>
+      <img src={twenty6} alt="first pic"/>
+      <img src={twenty7} alt="first pic"/>
+      <img src={twenty8} alt="first pic"/>
+      <img src={twenty9} alt="first pic"/>
+      <img src={thirty} alt="first pic"/>
+    </div>
   );
 }
 
